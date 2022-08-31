@@ -1,14 +1,8 @@
-# Environment varibles load into bit - Reprudce
-
-To get started straight away run `bit start` and open [localhost:3000](http://localhost:3000). It may take a while to build the first time you run this command as it is building the whole User Interface for your development environment.
-
-```bash
-bit start
-```
+# Environment varibles load into bit - reproduction
 
 ## What' I did to get here?
-- Installed bit on OSX manteray
-- Ran 
+- Installed bit on OSX manteray (node v.16.16.0, npm 8.11.0, bit 0.0.792, bvm 0.1.4)
+- I Ran 
 ```
 $ bit new react dot-env
 $ cd dot-env
